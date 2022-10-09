@@ -1,0 +1,12 @@
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\bin\Debug\net6.0\NotinoHomeWork.Application.deps.json
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\bin\Debug\net6.0\NotinoHomeWork.Application.dll
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\bin\Debug\net6.0\NotinoHomeWork.Application.pdb
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\obj\Debug\net6.0\NotinoHomeWork.Application.csproj.AssemblyReference.cache
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\obj\Debug\net6.0\NotinoHomeWork.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\obj\Debug\net6.0\NotinoHomeWork.Application.AssemblyInfoInputs.cache
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\obj\Debug\net6.0\NotinoHomeWork.Application.AssemblyInfo.cs
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\obj\Debug\net6.0\NotinoHomeWork.Application.csproj.CoreCompileInputs.cache
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\obj\Debug\net6.0\NotinoHomeWork.Application.dll
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\obj\Debug\net6.0\refint\NotinoHomeWork.Application.dll
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\obj\Debug\net6.0\NotinoHomeWork.Application.pdb
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotinoHomeWork.Application\obj\Debug\net6.0\ref\NotinoHomeWork.Application.dll

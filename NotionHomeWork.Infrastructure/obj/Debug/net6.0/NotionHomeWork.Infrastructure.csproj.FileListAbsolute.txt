@@ -1,0 +1,15 @@
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\bin\Debug\net6.0\NotionHomeWork.Infrastructure.deps.json
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\bin\Debug\net6.0\NotionHomeWork.Infrastructure.dll
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\bin\Debug\net6.0\NotionHomeWork.Infrastructure.pdb
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\bin\Debug\net6.0\NotinoHomeWork.Application.dll
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\bin\Debug\net6.0\NotinoHomeWork.Application.pdb
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\obj\Debug\net6.0\NotionHomeWork.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\obj\Debug\net6.0\NotionHomeWork.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\obj\Debug\net6.0\NotionHomeWork.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\obj\Debug\net6.0\NotionHomeWork.Infrastructure.AssemblyInfo.cs
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\obj\Debug\net6.0\NotionHomeWork.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\obj\Debug\net6.0\NotionHomeWork.Infrastructure.csproj.CopyComplete
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\obj\Debug\net6.0\NotionHomeWork.Infrastructure.dll
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\obj\Debug\net6.0\refint\NotionHomeWork.Infrastructure.dll
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\obj\Debug\net6.0\NotionHomeWork.Infrastructure.pdb
+C:\Users\bruno.pfohl\source\repos\NotinoHomeWork\NotionHomeWork.Infrastructure\obj\Debug\net6.0\ref\NotionHomeWork.Infrastructure.dll

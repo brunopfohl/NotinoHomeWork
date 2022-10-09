@@ -1,0 +1,11 @@
+{
+  "Id": "3",
+  "Tags": [
+    "important",
+    ".net"
+  ],
+  "Data": {
+    "some": "data",
+    "optional": "fields"
+  }
+}
